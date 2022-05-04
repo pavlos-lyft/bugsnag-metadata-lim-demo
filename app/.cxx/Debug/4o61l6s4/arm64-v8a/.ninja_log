@@ -1,0 +1,7 @@
+# ninja log v5
+0	113	1651625737	CMakeFiles/entrypoint.dir/src/main/cpp/entrypoint.cpp.o	7285785807195de4
+113	147	1651625737	../../../../build/intermediates/cxx/Debug/4o61l6s4/obj/arm64-v8a/libentrypoint.so	996fb001b76a4c3a
+14	278	1651627992	CMakeFiles/entrypoint.dir/src/main/cpp/entrypoint.cpp.o	7285785807195de4
+278	345	1651627992	../../../../build/intermediates/cxx/Debug/4o61l6s4/obj/arm64-v8a/libentrypoint.so	996fb001b76a4c3a
+15	277	1651630828	CMakeFiles/entrypoint.dir/src/main/cpp/entrypoint.cpp.o	7285785807195de4
+277	342	1651630828	../../../../build/intermediates/cxx/Debug/4o61l6s4/obj/arm64-v8a/libentrypoint.so	996fb001b76a4c3a
